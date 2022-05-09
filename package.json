@@ -1,0 +1,16 @@
+{
+  "name": "blockchainexplorer",
+  "version": "1.0.0",
+  "description": "Electron Blockchain Explorer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "James Lukin",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "electron": "^18.2.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
